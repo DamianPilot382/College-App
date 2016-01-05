@@ -37,7 +37,7 @@ public class ApplicantActivity extends ActionBarActivity {
     private CharSequence mTitle;
     private ListView mDrawerList;
 
-    private MediaPlayer trombone;
+    private MediaPlayer trombone; //a very sad trombone
     private MediaPlayer woohoo;
     private MediaPlayer darude;
     public static MediaPlayer doit;
