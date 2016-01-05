@@ -27,7 +27,7 @@ import android.widget.Toast;
 
 public class ApplicantActivity extends ActionBarActivity {
 
-    private static final String TAG = "ApplicantActivity3";
+    private static final String TAG = "ApplicantActivity2";
 
     private String[] mApplicantViewTitles = { "Profile", "Family" }; //Do this with String resources
     private DrawerLayout mDrawerLayout;
